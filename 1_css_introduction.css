@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(142, 146, 136);
+
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+p{
+    color: brown;
+    font-size: 40px;
+}
