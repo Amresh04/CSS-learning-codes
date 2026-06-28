@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(240, 236, 231);
+}
+h1{
+    color: rgb(222, 24, 24);
+    text-align: center;
+    font-weight: 40px;
+    font-style: oblique;
+}
+p{
+    color: orange;
+    text-align: center;
+    font-weight: 30px;
+}
