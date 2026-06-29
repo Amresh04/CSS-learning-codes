@@ -1,0 +1,18 @@
+/* I will learn about these following CSS background properties:
+
+background-color
+background-image
+background-repeat
+background-attachment
+background-position
+background (shorthand property) */
+
+
+body{ background-color: rgb(25, 14, 65);
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/285/172/9/sunset-8k-forest-4k-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+}
+
+p {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEIF8NB25gOcO1o9urUR0IrdeckHvEMsfHKdGMX9Bo0w&s=10");
+}
