@@ -1,0 +1,23 @@
+/* CSS background-repeat */
+body{
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCwF_iKNa7Uq0QPO5zPzOX4XvWZmFHnpWd-2vqhh1Jqw&s=10");
+    background-repeat: repeat-y; */
+background-image:url("https://png.pngtree.com/png-vector/20240130/ourmid/pngtree-green-leaf-cherry-tree-isolated-stock-photo-png-image_11516881.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+
+
+
+}
+h1{
+    color: red;
+    font-size: 40px;
+    font-style: oblique;
+    text-align: center;
+}
+p{
+    color: blue;
+    font-size: 20px;
+
+}
